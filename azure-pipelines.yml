@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool: basole
+pool:
+  name: basole
 
 
 steps:
